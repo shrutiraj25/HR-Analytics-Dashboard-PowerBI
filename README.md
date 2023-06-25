@@ -4,6 +4,9 @@
 
 Help an organization to improve employee performance and improve employee retention (reduce attrition).
 
+# Data:
+The provided data contains information about employees, including their demographic details, employment characteristics and factors related to attrition .
+
 # Charts Used:
 KPIs
 
