@@ -19,5 +19,8 @@ Tree Map
 
 Matrix 
 
+Slicer
+
+
 ![image](https://github.com/shrutiraj25/HR-Analytics-Dashboard-PowerBI/assets/99032377/2715f783-de25-4aa2-9d2a-f1de77eb9917)
 
