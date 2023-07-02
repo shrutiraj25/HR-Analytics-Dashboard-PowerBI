@@ -5,8 +5,8 @@
 Help an organization to improve employee performance and improve employee retention (reduce attrition).
 
 
+![image](https://github.com/shrutiraj25/HR-Analytics-Dashboard-PowerBI/assets/99032377/b1744d75-f2f7-4dfa-8a83-f6da36acb593)
 
-![image](https://github.com/shrutiraj25/HR-Analytics-Dashboard-PowerBI/assets/99032377/3730ace7-91b1-44ae-9b7e-5b7ea8cb5549)
 
 
 
