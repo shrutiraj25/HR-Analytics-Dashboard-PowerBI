@@ -6,7 +6,8 @@ Help an organization to improve employee performance and improve employee retent
 
 
 
-![image](https://github.com/shrutiraj25/HR-Analytics-Dashboard-PowerBI/assets/99032377/331595c8-bfd8-4c12-b88a-6080fa2238bc)
+![image](https://github.com/shrutiraj25/HR-Analytics-Dashboard-PowerBI/assets/99032377/3730ace7-91b1-44ae-9b7e-5b7ea8cb5549)
+
 
 
 
